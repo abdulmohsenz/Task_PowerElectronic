@@ -1,2 +1,2 @@
-AnalogSignal
+AnalogSignal:
 The AnalogSignal is used with parts with many variables, such as the temperature sensor, because the temperature may change in small degrees, for example from 23.5 to 24, unlike the DigitalSignal, which is used with parts with two variables such as PushButton to turn the LED on and off. When pressing the PushButton, it changes from 0 to 1, and in This circuit uses a temperature sensor to measure the temperature every second.
